@@ -10,23 +10,19 @@ permalink: /about/
   </div>
   <div class="about-text">
     <p>
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-      Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+      <a href="https://www.linkedin.com/in/pbudden/"><h2>Phil Budden</h2></a>
     </p>
-
     <p>
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat 
-      cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+      I’m a Data Engineer and infrastructure-minded builder with a long-standing interest in how systems behave under real constraints. My work sits at the intersection of data platforms, AI/LLM systems, and the automation that keeps them dependable. I’m less interested in polished demos than in whether something is reproducible, observable, and still working six months from now.
     </p>
-
     <p>
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, 
-      eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+      I design and run my own infrastructure — from containerised workloads to GitOps-driven deployments — because operating systems yourself changes how you build them. That bias shows up in the details: clear separation of concerns, pinned versions, minimal drift, and automation treated as a first-class principle. Whether it’s data pipelines, Kubernetes clusters, or static publishing workflows, I favour architectures that are explicit, testable, and boring in the best possible way.
     </p>
-
     <p>
-      Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui 
-      ratione voluptatem sequi nesciunt.
+      Open source underpins much of what I do. I value its transparency, composability, and community scrutiny, while staying pragmatic about proprietary tools when they genuinely fit the job.
+    </p>
+    <p>
+    Across technology, healthcare, local government, and social housing, I’ve worked alongside Data Scientists, Analysts, Engineers, and Operations teams to design data platforms, build resilient pipelines, and shape scalable warehouse architectures. The through-line is consistent: strong foundations, thoughtful trade-offs, and systems that evolve without collapsing under their own complexity.
     </p>
   </div>
 </div>
