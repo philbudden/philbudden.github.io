@@ -10,7 +10,7 @@ I'm actively interested in consulting, contract work, and strategic partnerships
 
 Describe your project, challenge, or opportunity, and I'll get back to you promptly with initial thoughts and next steps.
 
-<form id="engagement-form" class="engagements-form" method="POST" action="https://formspree.io/f/YOUR_FORM_ID" novalidate>
+<form id="engagement-form" class="engagements-form" method="POST" action="https://formspree.io/f/mreawbyq" novalidate>
   <div id="form-message" class="form-message"></div>
 
   <div class="form-group">
@@ -43,7 +43,7 @@ Describe your project, challenge, or opportunity, and I'll get back to you promp
 </form>
 
 <div class="email-fallback">
-  <p>Or contact me directly at: <a href="mailto:your-email@example.com">your-email@example.com</a></p>
+  <p>Or contact me directly at: <a href="mailto:enquiries@data-savvy-solutions.com">enquiries@data-savvy-solutions.com</a></p>
 </div>
 
 <script src="/assets/js/form.js" defer></script>
