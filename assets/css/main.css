@@ -308,7 +308,7 @@ main {
 
 @media (max-width: 768px) {
   .logo-responsive {
-    width: clamp(120px, 50vw, 240px);
+    width: clamp(200px, 80vw, 480px);
   }
 }
 
