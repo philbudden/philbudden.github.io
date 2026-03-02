@@ -4,6 +4,8 @@ title: Projects
 permalink: /projects/
 ---
 
+These are the open-source projects I actively maintain.
+
 <div class="projects-grid">
   {% for project in site.data.projects %}
     <div class="project-card">
