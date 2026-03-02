@@ -307,6 +307,13 @@ main {
   text-align: center;
 }
 
+.landing-tagline {
+  margin-top: var(--spacing-lg);
+  font-size: var(--font-size-lg);
+  color: var(--color-graphite-soft);
+  letter-spacing: 0.02em;
+}
+
 .logo-responsive {
   width: clamp(280px, 65vw, 900px);
   height: auto;
