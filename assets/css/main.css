@@ -312,6 +312,13 @@ main {
   font-size: var(--font-size-lg);
   color: var(--color-graphite-soft);
   letter-spacing: 0.02em;
+  white-space: nowrap;
+}
+
+@media (max-width: 768px) {
+  .landing-tagline {
+    font-size: 3.8vw;
+  }
 }
 
 .logo-responsive {
