@@ -81,6 +81,13 @@ body {
   line-height: var(--line-height-normal);
   color: var(--color-graphite);
   background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+main {
+  flex: 1;
 }
 
 h1,
