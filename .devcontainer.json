@@ -1,0 +1,19 @@
+{
+  "name": "jekyll-site",
+  "image": "mcr.microsoft.com/devcontainers/ruby:3.2",
+  "forwardPorts": [4000],
+  "portsAttributes": {
+    "4000": {
+      "label": "Jekyll Preview",
+      "onAutoForward": "openBrowser"
+    }
+  },
+  "postCreateCommand": "bundle install",
+  "customizations": {
+    "vscode": {
+      "settings": {
+        "terminal.integrated.defaultProfile.linux": "bash"
+      }
+    }
+  }
+}
