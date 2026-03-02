@@ -238,10 +238,16 @@ main {
 }
 
 .logo-responsive {
-  width: 120px;
+  width: clamp(280px, 65vw, 900px);
   height: auto;
   display: block;
   margin: 0 auto;
+}
+
+@media (max-width: 768px) {
+  .logo-responsive {
+    width: clamp(120px, 50vw, 240px);
+  }
 }
 
 /* ============================================================================
