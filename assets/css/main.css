@@ -288,7 +288,6 @@ main {
   max-width: 1200px;
   margin: 0 auto;
   padding: var(--spacing-2xl) var(--spacing-md);
-  min-height: calc(100vh - 200px);
 }
 
 /* ============================================================================
