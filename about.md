@@ -6,7 +6,7 @@ permalink: /about/
 
 <div class="about-content">
   <div class="about-image">
-    <img src="/assets/img/profile.svg" alt="Profile image placeholder" width="200" height="200">
+    <img src="/assets/img/profile.jpeg" alt="Profile photo">
   </div>
   <div class="about-text">
     <p>

@@ -537,10 +537,10 @@ main {
 }
 
 .about-image img {
-  width: 200px;
-  height: 200px;
+  width: 220px;
+  height: auto;
   border-radius: 8px;
-  object-fit: cover;
+  display: block;
 }
 
 .about-text {
@@ -561,6 +561,7 @@ main {
   .about-image img {
     width: 100%;
     max-width: 300px;
+    height: auto;
   }
 
   .about-text {
