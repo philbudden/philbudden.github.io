@@ -1,4 +1,8 @@
 - title: "Blueberry"
-  description: "Atomic, container-native, Fedora-IOT based operating system for aarc64 single-board computers that provides a minimal, GitOps ready foundation, for edge infrastructure and containerised workloads."
-  github_url: "https://github.com/philbudden/blueberry"
+  description: |
+    Atomic, container-native, Fedora-IOT based operating system for aarch64 single-board computers that provides:
 
+    - **minimal** — GitOps ready foundation, for edge infrastructure and containerised workloads.
+    - **blueberry** — minimal + storage primitives and observability, for building container-native lightweight NAS systems.
+    - **k3s** — blueberry + k3s binaries, for running light-weight Kubernetes clusters.
+  github_url: "https://github.com/philbudden/blueberry"
