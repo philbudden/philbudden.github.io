@@ -19,6 +19,13 @@
 
   github_url: "https://https://github.com/cortxai"
 
+- title: "cnxns"
+  description: |
+    Provides a unified interface for reading and writing data across diverse systems. It abstracts connection management, authentication, and data transfer into three simple functions.
+    - **Minimal API**: Three functions cover all use cases
+    - **Framework Neutral**: Core library has zero dependencies
+    - **Streaming by Default**: Designed for large datasets with bounded memory
+
 - title: "Keystone"
   description: |
     Ansible-based infrastructure system that provisions and governs the host layer only of a container-native NAS platform. It manages OS configuration, storage primitives, container runtime, and essential infrastructure—but not application services.
@@ -32,11 +39,3 @@
     - **Implements** Layer 2 (Services) on a Blueberry or Keystone provisioned NAS.
     - **Manages** containerised services only.
     - **Follows** GitOps principles: declarative, idempotent, and reproducible from Git.
-
-- title: "cnxns"
-  description: |
-    Provides a unified interface for reading and writing data across diverse systems. It abstracts connection management, authentication, and data transfer into three simple functions.
-    - **Minimal API**: Three functions cover all use cases
-    - **Framework Neutral**: Core library has zero dependencies
-    - **Streaming by Default**: Designed for large datasets with bounded memory
-
