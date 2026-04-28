@@ -1,8 +1,10 @@
 ---
 source: https://www.databricks.com/resources/learn/training/generative-ai-fundamentals?itm_source=www&itm_category=learn&itm_page=certification&itm_location=body&itm_component=card&itm_offer=generative-ai-fundamentals
 layout: note
-title: Databricks Generative AI Fundamentals
+title: Generative AI Fundamentals
 date: 2026-04-28
+tags:
+  - ai
 summary: An introduction to how generative AI works, including language models, model types and trade-offs, agent-based systems, and effective interaction through prompt design.
 ---
 
